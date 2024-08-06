@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-// Exercicio1
+// Exercício 1
+
 int main(void)
 {
 
