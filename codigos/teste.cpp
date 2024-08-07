@@ -2,9 +2,10 @@
 #include <iostream>
 using namespace std;
 
-int main(void)
+int main()
 {
-  cout << "Isso e um teste...\n";
+
+  cout << "Isso e um teste\n";
 
   return 0;
 }
