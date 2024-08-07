@@ -8,7 +8,7 @@ Este repositório contém o material das aulas de Programação Orientada a Obje
 - **Semestre:** 4º Semestre
 - **Matéria:** PROO
 
-## Informações dos diretórios
+## Informações dos Diretórios
 
 - **Códigos:** códigos-fonte das aulas
 - **Exercícios:** exercícios realizados durante as aulas
