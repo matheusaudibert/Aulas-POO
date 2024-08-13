@@ -27,8 +27,7 @@ int main()
     cout << "* O aluno foi aprovado com media final " << media << "!\n";
 
     cout << "\n";
-
-    // Fim do programa
-    return 0;
   }
+  // Fim do programa
+  return 0;
 }
