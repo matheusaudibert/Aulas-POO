@@ -18,7 +18,7 @@ int main()
   media = (n1 + n2) / 2;
 
   // Formatação do resultado
-  cout << setprecision(4);
+  cout << setprecision(3);
   cout << setiosflags(ios::showpoint);
 
   // Verifica se ele foi aprovado
