@@ -5,7 +5,6 @@ Este repositório contém o material das aulas de Programação Orientada a Obje
 ## Informações da Disciplina
 
 - **Professor:** Paulo Giovani
-- **Semestre:** 4º Semestre
 - **Matéria:** PROO
 
 ## Informações dos Diretórios
