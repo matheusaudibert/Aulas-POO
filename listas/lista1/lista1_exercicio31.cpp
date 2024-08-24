@@ -10,11 +10,11 @@ int main()
   // Verifica se o ano é bissexto
   if ((ano % 4 == 0 && ano % 100 != 0) || (ano % 400 == 0))
   {
-    cout << ano << " e um ano bissexto." << endl;
+    cout << ano << " e um ano bissexto.";
   }
   else
   {
-    cout << ano << " nao e um ano bissexto." << endl;
+    cout << ano << " nao e um ano bissexto.";
   }
 
   return 0;
