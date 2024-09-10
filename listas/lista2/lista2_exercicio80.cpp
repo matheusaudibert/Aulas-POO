@@ -21,7 +21,7 @@ int main() {
     
     int reverso = inverterNumero(numero);
     
-    cout << "O reverso de " << numero << " é " << reverso << "." << endl;
+    cout << "O reverso de " << numero << " e" << reverso << "." << endl;
     
     return 0;
 }
