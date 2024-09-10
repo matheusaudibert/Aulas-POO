@@ -1,4 +1,4 @@
-# Aulas de PROO
+# Aulas de POO
 
 Este repositório contém o material das aulas de Programação Orientada a Objetos (PROO) utilizando a linguagem C++.
 
