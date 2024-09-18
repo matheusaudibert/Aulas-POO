@@ -1,12 +1,13 @@
 #include <iostream>
 #include <string>
+#include <cstring>
 
 using namespace std;
 
 int main(){
   cout <<"\n";
 
-  cout "Exemplo de uso de strtok() e de Alocacao Dinamica\n\n";
+  cout << "Exemplo de uso de strtok() e de Alocacao Dinamica\n\n";
 
   char texto[] = "Minha-frase-de-token";
 
